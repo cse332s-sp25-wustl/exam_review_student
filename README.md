@@ -1,14 +1,4 @@
-# CSE 332 Studio Base
+# CSE 332 Exam Resources
 Repository for submitting studio work
 
-# Responses:
-Students:
-1. John Doe <john.doe@wustl.edu>
-2. 
-3. 
-4. 
-
-
-Question Answers:
-2. 
-
+Use the build configurations to help you find the answers to the practice exam questions. 
