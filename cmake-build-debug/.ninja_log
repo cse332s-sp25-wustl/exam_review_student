@@ -1,0 +1,8 @@
+# ninja log v6
+1	366	1742374254114446831	src/CMakeFiles/exam_review.dir/Main.cpp.o	78646c326e66e05d
+2	376	1742374254114912292	src/CMakeFiles/exam_review.dir/palindrome.cpp.o	478352e5c06c6540
+2	377	1742374254115056918	src/CMakeFiles/exam_review.dir/myvect.cpp.o	f83ad7c1a9c30886
+2	375	1742374254115202335	src/CMakeFiles/exam_review.dir/myvectwithstats.cpp.o	6ef47642f9dab27
+2	376	1742374254114773708	src/CMakeFiles/exam_review.dir/my_string.cpp.o	4e0596161a083a33
+2	378	1742374254115388711	src/CMakeFiles/exam_review.dir/ContainerStats.cpp.o	903d2bd65bc3e325
+378	415	1742374254490921622	src/exam_review	92d75a57a585ba87
